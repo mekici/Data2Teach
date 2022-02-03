@@ -1,22 +1,8 @@
 name: data2teach
 channels:
-  - plotly
-  - jmcmurray
-  - pytorch
-  - anaconda
   - conda-forge
-  - defaults
 dependencies:
-  - pandas
-  - numpy
-  - tensorflow
-  - matplotlib
-  - scikit-learn
-  - ipywidgets
-  - graphviz
-  - hdbscan
-  - scikit-image
-  - scipy
-  - seaborn
-  - plotly
-  - Pillow
+  - r-base
+  - r-tidyverse
+  - r-dplyr
+  - jupyter_contrib_nbextensions
