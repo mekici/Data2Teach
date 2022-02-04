@@ -5,5 +5,4 @@ dependencies:
   - r-base
   - r-tidyverse
   - r-dplyr
-  - jupyter_contrib_nbextensions
   - r-ggpubr
