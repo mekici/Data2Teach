@@ -1,8 +1,7 @@
 name: data2teach
 channels:
   - conda-forge
-version: 
--1.0.0-alpha < 1.0.0.
+version: 1.0.0-alpha < 1.0.0.
 dependencies:
   - r-base
   - r-tidyverse
